@@ -1,8 +1,8 @@
-## Sistema de Aluguel de Imóveis
+# Sistema de Aluguel de Imóveis
 
-Projeto em Java para console que permite gerenciar casas e apartamentos para aluguel.
+ Projeto em Java para console que permite gerenciar casas e apartamentos para aluguel.
 
-* Funcionalidades principais:
+## Funcionalidades principais:
 
 * Cadastrar imóveis (Casa ou Apartamento)
 
